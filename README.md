@@ -20,8 +20,7 @@
 1. 锁定组件
 1. 网格线
 
-## 在线 DEMO
-* [预览入口（Github）不翻墙可能速度慢](https://woai3c.github.io/visual-drag-demo)
+## [在线 DEMO](https://woai3c.github.io/visual-drag-demo)
 
 ## 开发
 ### 安装
